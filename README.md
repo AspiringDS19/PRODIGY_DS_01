@@ -1,0 +1,1 @@
+In this project I have created various visual representations on population of various countries as per world population data. Graphs are made across genders as well as country wise. Major libraries used are pandas and matplot library.
